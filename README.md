@@ -56,6 +56,10 @@ Learn how to implement silent app updates in Flutter applications.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40"/>
 </a>
 
+<a href="https://developer.apple.com/ios/">
+<img src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" width="40" height="40"/>
+</a>
+
 <h3 align="left">Backend & Database:</h3>
 
 <p align="left">
