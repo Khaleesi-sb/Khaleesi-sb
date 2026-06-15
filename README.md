@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Khaleesi-sb&label=Profile%20views&color=0e75b6&style=flat" alt="Khaleesi-sb" /> </p>
 
-- 🔭 I’m currently working on [KnowledgeHub](https://github.com/Khaleesi-sb/knowledge_hub)
+- 🔭 I’m currently working on [Stock Data Analysis with Grok](https://github.com/Khaleesi-sb/stock_data_analysis_with_grok)
 
 - 🌱 Currently expanding into **Native Android Development** with **Kotlin** and **Jetpack components**
 
