@@ -8,10 +8,6 @@
 
 - 🌱 Currently expanding into **Native Android Development** with **Kotlin** and **Jetpack components**
 
-- 📝 I regularly write articles on [https://medium.com/@khaleesi.b914](https://medium.com/@khaleesi.b914)
-
-- 💬 Ask me about **Flutter, Dart and Android**
-
 - 📫 How to reach me **shilpa.bhattacharya94@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1PZ9qj8_nUNAAYpH0_F2aGI5LKMtS_BmA/view?usp=sharing](https://drive.google.com/file/d/1PZ9qj8_nUNAAYpH0_F2aGI5LKMtS_BmA/view?usp=sharing)
