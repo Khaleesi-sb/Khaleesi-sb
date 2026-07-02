@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Stock Data Analysis with Grok](https://github.com/Khaleesi-sb/stock_data_analysis_with_grok)
 
-- 🌱 Currently expanding into **Native Android Development** with **Kotlin** and **Jetpack components**
+- 🌱 Currently expanding into **Native Android Development** with **Kotlin** with **Jetpack compose**
 
 - 📫 How to reach me **shilpa.bhattacharya94@gmail.com**
 
